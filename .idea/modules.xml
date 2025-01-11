@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidtopics/androidtopics.iml" filepath="$PROJECT_DIR$/androidtopics/androidtopics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa/dsa.iml" filepath="$PROJECT_DIR$/dsa/dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dsa.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dsa.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dsa.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dsa.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa/java/java.iml" filepath="$PROJECT_DIR$/dsa/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatopics/javatopics.iml" filepath="$PROJECT_DIR$/javatopics/javatopics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa/kotlin/kotlin.iml" filepath="$PROJECT_DIR$/dsa/kotlin/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlintopics/kotlintopics.iml" filepath="$PROJECT_DIR$/kotlintopics/kotlintopics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learnings.iml" filepath="$PROJECT_DIR$/.idea/learnings.iml" />
+    </modules>
+  </component>
+</project>
