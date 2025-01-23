@@ -1,4 +1,4 @@
-###Theming and Styling in Android with Material Design Guidelines  
+### Theming and Styling in Android with Material Design Guidelines  
 
 ## Introduction  
 This document serves as a guide to understanding **theming**, **styling**, and **Material Design guidelines** in Android development. These concepts are crucial for creating visually appealing, user-friendly, and modern mobile applications.
